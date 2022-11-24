@@ -222,7 +222,7 @@ header .nav a:hover {
 }
 
 #banner_right:hover banner_container {
-	background-image: url("./asset/img/slider_3.webp");
+	background-image: url("asset/img/slider_3.webp");
 }
 
 
@@ -494,7 +494,7 @@ header .nav a:hover {
 
 }
 .introduce .video{
-	background-image: url("./asset/img/bg-play.webp");
+	background-image: url("asset/img/bg-play.webp");
 	background-size: cover;
 	background-position: center;
 	height: 400px;
@@ -643,7 +643,7 @@ header .nav a:hover {
 
 .information{
 	height: 500px;
-	background-image: url("./asset/img/banner5.webp");
+	background-image: url("asset/img/banner5.webp");
 }
 .information .container h3{
 	text-align: center;
