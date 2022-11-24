@@ -119,7 +119,7 @@ header .nav a:hover {
 }
 
 #background {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("./asset/img/slider_2.webp");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("../project/asset/img/slider_2.webp");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
